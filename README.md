@@ -1,2 +1,2 @@
 # discordbotindex-branding
-Branding for Discord Bot Index
+Official Branding for Discord Bot Index
